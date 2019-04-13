@@ -6,5 +6,10 @@ public class Main {
 
         System.out.println(person.size.getFullName());
         System.out.println(person.gender);
+
+
+        String cos = "";
+
+        System.out.println(cos);
     }
 }
